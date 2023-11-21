@@ -43,7 +43,7 @@ Um amante de tecnologia, sempre a procura de novas experiências e aprendizagem.
 ![Spring](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-
+<br>
 <div>
   <img height="180em" src="https://github-readme-stats-guicamara.vercel.app/api/top-langs/?username=claudiomss&layout=compact&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats-guicamara.vercel.app/api?username=claudiomss&show_icons=true&theme=tokyonight"/>
