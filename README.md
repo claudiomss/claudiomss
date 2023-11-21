@@ -14,7 +14,7 @@ Um amante de tecnologia, sempre a procura de novas experiências e aprendizagem.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-marcelo-687045205/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claudiocld95@gmail.com)
 [![Portifolio](https://img.shields.io/badge/Portifolio-20232A?style=for-the-badge&Color=61DAFB)](https://port2-claudiomss.vercel.app/)
-[![Portifolio](https://img.shields.io/badge/Whatsapp-5?style=for-the-badge&Color=61DAF)](https://port2-claudiomss.vercel.app/)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-5?style=for-the-badge&Color=61DAF)](https://wa.me/5524999580344)
 
 
 
