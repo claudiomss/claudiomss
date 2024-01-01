@@ -42,10 +42,6 @@ Um amante de tecnologia, sempre a procura de novas experiências e aprendizagem.
 
 
 <br>
-<div>
-  <img height="180em" src="https://github-readme-stats-guicamara.vercel.app/api/top-langs/?username=claudiomss&layout=compact&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats-guicamara.vercel.app/api?username=claudiomss&show_icons=true&theme=tokyonight"/>
-</div>
 
 
 [Voltar para o topo](#Inicio)
