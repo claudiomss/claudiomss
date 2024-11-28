@@ -3,7 +3,7 @@
 
 Atualmente atuo como Desenvolvedor Júnior, sou Dev Frontend mas estou progredindo para tornar um Dev FullStack. Das tecnologias em foco são React / Next e Node, já Angular / Typescript e Java fiz um projetos básicos no Bootcamp porém estou em aprendizado.
 
-Em resumo, faço Site / Aplicativos Web utilizando React e Next para serviços mais complexos e costumo utilizar HTML / CSS ou Wordpress/Elementor para soloções mais simples e de entrega mais rápida. Subo servidores em Node ( aplico configurações básicas na VPS [Linux] ) com integração com algum banco de dados.
+Construo Sites / Aplicativos Web utilizando React e Next para serviços mais complexos e costumo utilizar HTML / CSS ou Wordpress/Elementor para soloções mais simples e de entrega mais rápida. Subo servidores em Node ( aplico configurações básicas na VPS [Linux] ) com integração com algum banco de dados.
 
 Um amante de tecnologia, sempre a procura de novas experiências e aprendizagem. Novos conceitos e desafios são motores de inspiração! Enfrento-os com as ferramentas disponíveis! 🚀
 
