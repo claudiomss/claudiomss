@@ -1,7 +1,7 @@
 <a id="Inicio"></a>
 # Cláudio Marcelo 
 
-Atualmente atuo como Desenvolvedor Júnior, sou Dev Frontend mas estou progredindo para tornar um Dev FullStack. Das tecnologias em foco são React / Next e Node, já Angular / Typescript e Java fiz um projetos básicos no Bootcamp porém estou em aprendizado.
+Atualmente atuo como Desenvolvedor em uma empresa de marketing. Das tecnologias em foco são React / Next e Node, já Angular / Typescript e Java fiz um projetos básicos no Bootcamp porém estou em aprendizado.
 
 Construo Sites / Aplicativos Web utilizando React e Next para serviços mais complexos e costumo utilizar HTML / CSS ou Wordpress/Elementor para soloções mais simples e de entrega mais rápida. Subo servidores em Node ( aplico configurações básicas na VPS [Linux] ) com integração com algum banco de dados.
 
