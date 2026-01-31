@@ -1,7 +1,10 @@
 <a id="Inicio"></a>
 # Cláudio Marcelo 
+#### Frontend Developer (Pleno) | React • Next.js • UI/UX-minded • Node.js
 
-Desenvolvedor Frontend Pleno, formado em Sistemas da Informação, com foco na construção de interfaces modernas, performáticas e orientadas à experiência do usuário.
+---
+
+Formado em Sistemas da Informação, com foco na construção de interfaces modernas, performáticas e orientadas à experiência do usuário.
 
 Atuo principalmente com React e Next.js, desenvolvendo aplicações responsivas, otimizadas para SEO e com atenção especial à performance e usabilidade.
 
