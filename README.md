@@ -17,6 +17,7 @@ Também tenho vivência com infraestrutura básica, como configuração de VPS e
 [![Portifolio](https://img.shields.io/badge/Portifolio-20232A?style=for-the-badge&Color=61DAFB)](https://port2-claudiomss.vercel.app/)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-5?style=for-the-badge&Color=61DAF)](https://wa.me/5524999580344)
 
+---
 
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,7 +27,7 @@ Também tenho vivência com infraestrutura básica, como configuração de VPS e
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-000000?style=for-the-badge&logo=css3&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-520333?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -46,7 +47,7 @@ Também tenho vivência com infraestrutura básica, como configuração de VPS e
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 ![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Automations](https://img.shields.io/badge/Automações-000000?style=for-the-badge&logo=zapier&logoColor=white)
+![Automations](https://img.shields.io/badge/Automações-520333?style=for-the-badge&logo=zapier&logoColor=white)
 
 
 
